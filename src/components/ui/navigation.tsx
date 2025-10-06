@@ -21,20 +21,20 @@ export function Navigation() {
   const router = useRouter();
 
   return (
-    <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-200">
+    <nav className="sticky top-0 z-50 bg-black/30 backdrop-blur-lg border-b border-white/10 shadow-lg">
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-1">
             <Link
               href="/"
-              className="text-xl font-bold text-gray-900 hover:text-gray-700 transition-colors"
+              className="text-xl font-bold text-white hover:text-gray-300 transition-colors"
             >
               GDG JDCOEM Nagpur
             </Link>
           </div>
           <Menubar>
             <MenubarMenu>
-              <MenubarTrigger>Menu</MenubarTrigger>
+              <MenubarTrigger className="text-white bg-transparent hover:bg-white/10 data-[state=open]:bg-white/10">Menu</MenubarTrigger>
               <MenubarContent>
                 {navItems.map((item) => (
                   <MenubarItem
