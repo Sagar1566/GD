@@ -29,7 +29,7 @@ export function Navigation() {
               href="/"
               className="text-xl font-bold text-gray-900 hover:text-gray-700 transition-colors"
             >
-              Orchids
+              GDG JDCOEM Nagpur
             </Link>
           </div>
           <Menubar>
