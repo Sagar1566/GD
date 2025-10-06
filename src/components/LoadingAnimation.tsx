@@ -18,7 +18,7 @@ export function LoadingAnimation() {
   }
 
   return (
-    <div className="fixed inset-0 bg-black flex items-center justify-center z-50">
+    <div className="fixed inset-0 bg-white flex items-center justify-center z-50">
       <Image src="/animated-logo-stroke.svg" alt="Loading..." width={200} height={200} />
     </div>
   );
