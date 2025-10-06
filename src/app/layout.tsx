@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
-import LoadingAnimation from "@/components/LoadingAnimation";
+import { LoadingAnimation } from "@/components/LoadingAnimation";
 import { Navigation } from "@/components/ui/navigation";
 
 export const metadata: Metadata = {
