@@ -73,7 +73,7 @@ const FooterSection = () => {
             <div className="container mx-auto">
                 <div className="flex flex-col md:flex-row items-center justify-between pb-8">
                     <Link href="/" className="text-2xl font-bold mb-6 md:mb-0 text-white">
-                        {'gdg'}<span className="text-[#a855f7]">_</span>{'vit'}
+                        {'gdg'}<span className="text-[#a855f7]">_</span>{'jdcoem'}
                     </Link>
 
                     <nav className="hidden md:flex items-center gap-6">
@@ -84,19 +84,19 @@ const FooterSection = () => {
                     </nav>
 
                     <div className="flex items-center space-x-6 mt-6 md:mt-0">
-                        <a href="https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/" target="_blank" rel="noopener noreferrer" aria-label="GDG Community Page" className="hover:opacity-80 transition-opacity">
+                        <a href="https://gdg.community.dev/gdg-on-campus-jd-college-of-engineering-and-management-nagpur/" target="_blank" rel="noopener noreferrer" aria-label="GDG Community Page" className="hover:opacity-80 transition-opacity">
                            <GoogleIcon className="w-6 h-6" />
                         </a>
-                        <a href="https://github.com/GDGVITM" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:opacity-80 transition-opacity">
+                        <a href="https://github.com/GDGJWDCOEM" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:opacity-80 transition-opacity">
                            <GithubIcon className="w-6 h-6 text-white" />
                         </a>
-                        <a href="https://www.linkedin.com/company/google-developer-groups-vit-mumbai" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:opacity-80 transition-opacity">
+                        <a href="https://www.linkedin.com/company/google-developer-groups-jdcoem-nagpur" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:opacity-80 transition-opacity">
                             <LinkedinIcon className="w-6 h-6 text-[#0a66c2]" />
                         </a>
                         <a href="https://chat.whatsapp.com/GTP2ydK7MyXFBRwf8vnrNW" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" className="hover:opacity-80 transition-opacity">
                             <WhatsAppIcon className="w-6 h-6 text-[#25d366]" />
                         </a>
-                        <a href="https://www.instagram.com/gdg_vit/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:opacity-80 transition-opacity">
+                        <a href="https://www.instagram.com/gdg_jdcoem/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:opacity-80 transition-opacity">
                             <InstagramIcon className="w-6 h-6" />
                         </a>
                     </div>
@@ -106,34 +106,34 @@ const FooterSection = () => {
 
                 <div className="flex flex-col items-center text-center space-y-6 pt-4">
                     <div className="flex items-center space-x-6 text-[#ec4899]">
-                        <a href="https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/" target="_blank" rel="noopener noreferrer" aria-label="GDG Community Page" className="hover:opacity-80 transition-opacity">
+                        <a href="https://gdg.community.dev/gdg-on-campus-jd-college-of-engineering-and-management-nagpur/" target="_blank" rel="noopener noreferrer" aria-label="GDG Community Page" className="hover:opacity-80 transition-opacity">
                            <GoogleIconSimple className="w-7 h-7" />
                         </a>
-                        <a href="https://github.com/GDGVITM" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:opacity-80 transition-opacity">
+                        <a href="https://github.com/GDGJWDCOEM" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="hover:opacity-80 transition-opacity">
                            <GithubIcon className="w-7 h-7" />
                         </a>
-                        <a href="https://www.linkedin.com/company/google-developer-groups-vit-mumbai" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:opacity-80 transition-opacity">
+                        <a href="https://www.linkedin.com/company/google-developer-groups-jdcoem-nagpur" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="hover:opacity-80 transition-opacity">
                             <LinkedinIcon className="w-7 h-7" />
                         </a>
                         <a href="https://chat.whatsapp.com/GTP2ydK7MyXFBRwf8vnrNW" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" className="hover:opacity-80 transition-opacity">
                             <WhatsAppIcon className="w-7 h-7" />
                         </a>
-                        <a href="https://www.instagram.com/gdg_vit/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:opacity-80 transition-opacity">
+                        <a href="https://www.instagram.com/gdg_jdcoem/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="hover:opacity-80 transition-opacity">
                            <InstagramIconSimple className="w-7 h-7" />
                         </a>
                     </div>
                     
                     <p className="text-sm text-[#9ca3af]">
-                        Copyright © 2025 GDG VIT. Open Source.
+                        Copyright © 2025 GDG JDCOEM Nagpur. Open Source.
                     </p>
 
-                    <a href="mailto:gdgoncampus.vit@gmail.com" className="flex items-center gap-2 text-[#ec4899] text-sm hover:underline">
+                    <a href="mailto:gdgoncampus.jdcoem@gmail.com" className="flex items-center gap-2 text-[#ec4899] text-sm hover:underline">
                         <Mail className="w-4 h-4" />
-                        gdgoncampus.vit@gmail.com
+                        gdgoncampus.jdcoem@gmail.com
                     </a>
 
                     <p className="text-sm text-gray-400">
-                        GDG-VIT operates from Vidyalankar Institute of Technology, Mumbai, India.
+                        GDG-JDCOEM operates from JD College of Engineering and Management, Nagpur, India.
                     </p>
 
                     <a href="#" className="flex items-center gap-2 text-[#ec4899] text-sm hover:underline">

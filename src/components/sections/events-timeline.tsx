@@ -42,7 +42,7 @@ const eventsData: Event[] = [
   },
   {
     month: 'January',
-    title: 'Winter Of Code [GDG VIT x GDG IIIT Kalyani]',
+    title: 'Winter Of Code [GDG JDCOEM Nagpur x GDG IIIT Kalyani]',
     bgColor: 'bg-[#fb923c]',
     topics: [
       'Open Source Fundamentals',
@@ -71,7 +71,7 @@ const eventsData: Event[] = [
   },
   {
     month: 'March',
-    title: 'Shape The Web [UI/UX Figma Workshop & Competition] [GDG VIT x FOF Mumbai]',
+    title: 'Shape The Web [UI/UX Figma Workshop & Competition] [GDG JDCOEM Nagpur x FOF Nagpur]',
     bgColor: 'bg-[#c4b5fd]',
     topics: [
       'Figma Crash Course',
@@ -100,7 +100,7 @@ const eventsData: Event[] = [
   },
   {
     month: 'June',
-    title: 'Code the Cloud Hackathon [GDG VIT x GDG Cloud Mumbai]',
+    title: 'Code the Cloud Hackathon [GDG JDCOEM Nagpur x GDG Cloud Nagpur]',
     bgColor: 'bg-[#d8b4fe]',
     topics: [
       'Cloud Project Ideation',

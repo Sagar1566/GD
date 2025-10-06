@@ -127,8 +127,8 @@ const HeroSection = () => {
             <span className="block sm:inline">On</span>{' '}
             <span className="block sm:inline">Campus</span>
             <br className="hidden sm:block" />
-            <span className="block sm:inline mt-2 sm:mt-0">VIT</span>{' '}
-            <span className="block sm:inline">Mumbai</span>
+            <span className="block sm:inline mt-2 sm:mt-0">JDCOEM</span>{' '}
+            <span className="block sm:inline">Nagpur</span>
           </h1>
 
           {/* Decorative Elements */}

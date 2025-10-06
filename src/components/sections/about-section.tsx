@@ -19,7 +19,7 @@ const AboutSection = () => {
           <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
             We are
             <br />
-            GDG VIT
+            GDG JDCOEM Nagpur
           </h2>
         </div>
         <div className="space-y-8 sm:space-y-12 md:space-y-16">

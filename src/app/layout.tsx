@@ -3,6 +3,7 @@ import "./globals.css";
 import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 import LoadingAnimation from "@/components/LoadingAnimation";
+import { Navigation } from "@/components/ui/navigation";
 
 export const metadata: Metadata = {
 title: "Create Next App",
@@ -14,7 +15,7 @@ children,
 }: Readonly<{
 children: React.ReactNode;
 }>) {
-return ( <html lang="en"> <body className="antialiased"> <LoadingAnimation /> <ErrorReporter /> <Script
+return ( <html lang="en"> <body className="antialiased"> <Navigation /> <LoadingAnimation /> <ErrorReporter /> <Script
        src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/scripts//route-messenger.js"
        strategy="afterInteractive"
        data-target-origin="*"
